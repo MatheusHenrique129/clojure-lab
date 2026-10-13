@@ -1,0 +1,25 @@
+# Clojure CLI / tools.deps
+.cpcache/
+
+# Leiningen
+target/
+lein-*.jar
+.lein-*
+
+# nREPL
+.nrepl-port
+.nrepl-history
+
+# IDE / editors
+.idea/
+.vscode/
+*.iml
+.calva/
+.lsp/
+.clj-kondo/.cache/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
